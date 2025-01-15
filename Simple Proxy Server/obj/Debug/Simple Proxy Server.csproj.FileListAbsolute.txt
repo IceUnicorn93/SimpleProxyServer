@@ -1,0 +1,7 @@
+C:\Users\jopla\source\repos\Simple Proxy Server\Simple Proxy Server\bin\Debug\Simple Proxy Server.exe.config
+C:\Users\jopla\source\repos\Simple Proxy Server\Simple Proxy Server\bin\Debug\Simple Proxy Server.exe
+C:\Users\jopla\source\repos\Simple Proxy Server\Simple Proxy Server\bin\Debug\Simple Proxy Server.pdb
+C:\Users\jopla\source\repos\Simple Proxy Server\Simple Proxy Server\obj\Debug\Simple Proxy Server.csproj.AssemblyReference.cache
+C:\Users\jopla\source\repos\Simple Proxy Server\Simple Proxy Server\obj\Debug\Simple Proxy Server.csproj.CoreCompileInputs.cache
+C:\Users\jopla\source\repos\Simple Proxy Server\Simple Proxy Server\obj\Debug\Simple Proxy Server.exe
+C:\Users\jopla\source\repos\Simple Proxy Server\Simple Proxy Server\obj\Debug\Simple Proxy Server.pdb
